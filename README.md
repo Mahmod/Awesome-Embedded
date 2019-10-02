@@ -46,11 +46,12 @@
       - [IoT](#iot)
     - [Pluralsight](#pluralsight)
     - [Udemy](#udemy)
+    - [Youtube](#youtube)
   - [News / Articles](#news--articles)
   - [Microcontroller](#microcontroller)
   - [Microprocessor/SoC](#microprocessorsoc)
   - [Software-Defined Networking (SDN)](#software-defined-networking-sdn)
-- [Real World Projects](#real-world-projects)
+  - [Real World Projects](#real-world-projects)
 
 <!-- /TOC -->
 
@@ -240,6 +241,10 @@ Cross-platform build system. Continuous and IDE integration. Arduino and ARM mbe
 - [Embedded Hardware and Operating Systems](https://www.coursera.org/learn/embedded-operating-system)
 - [Development of Real-Time Systems](https://www.coursera.org/learn/real-time-systems)
 - [Web Connectivity and Security in Embedded Systems](https://www.coursera.org/learn/iot-connectivity-security)
+- [Cybersecurity Fundamentals - Construction of Secure Systems (coursera)](https://www.coursera.org/specializations/cyber-security) Landing page for 5 courses about security with relation to embedded systems.
+- [Development of Real-Time Systems (coursera)](https://www.coursera.org/learn/real-time-systems)
+- [System Validation (1): Automata and behavioural equivalences (coursera)](https://www.coursera.org/learn/automata-system-validation)
+- [System Validation (2): Model process behaviour (coursera)](https://www.coursera.org/learn/system-validation-behavior)
 
 #### IoT
 - [IBM - A developer's guide to the Internet of Things](https://www.coursera.org/learn/developer-iot/home/welcome)
@@ -257,8 +262,6 @@ Cross-platform build system. Continuous and IDE integration. Arduino and ARM mbe
 ### Udemy
 - [C++ programming in Qt FrameWork Part I (udemy)](https://www.udemy.com/c-programming-creating-applications-with-qt-framework/) - not free
 - [C++ programming in Qt Framework: Part II (udemy)](https://www.udemy.com/c-programming-in-qt-framework-part-ii) - not free
-- [Cybersecurity Fundamentals - Construction of Secure Systems (coursera)](https://www.coursera.org/specializations/cyber-security) Landing page for 5 courses about security with relation to embedded systems.
-- [Development of Real-Time Systems (coursera)](https://www.coursera.org/learn/real-time-systems)
 - [FPGA Turbo Series - Communication Protocols](https://www.udemy.com/fpga-turbo-series-communication-protocols/)
 - [FPGA Turbo Series - Implementing a UART](https://www.udemy.com/fpga-turbo-series-uart/)
 - [Fun & Easy Embedded Microcontroller Communication Protocols (Udemy)](https://www.udemy.com/fun-easy-embedded-microcontroller-communication-protocols/) - Content: I2C/TWI, SPI, UART, MODBUS RTU, CAN, USB, ETHERNET, PCIE
@@ -272,9 +275,6 @@ Cross-platform build system. Continuous and IDE integration. Arduino and ARM mbe
 - [Embedded Systems Programming on ARM Cortex-M3/M4 Processor (Udemy)](https://www.udemy.com/embedded-system-programming-on-arm-cortex-m3m4/)
 - [Foundation course on Embedded Linux (Udemy)](https://www.udemy.com/foundation-course-on-embedded-linux/)
 - [Hands-on Embedded Systems, ARM Cortex Tutorials - ADCs (Udemy)](https://www.udemy.com/armcortex-adc/)
-- [System Validation (1): Automata and behavioural equivalences (coursera)](https://www.coursera.org/learn/automata-system-validation)
-- [System Validation (2): Model process behaviour (coursera)](https://www.coursera.org/learn/system-validation-behavior)
-- [UNC Charlotte Embedded Systems Course](https://www.youtube.com/playlist?list=PLE4462C1C306E2EB2)
 - [QT C++ GUI Tutorial For Beginners (udemy)](https://www.udemy.com/qt-c-gui-tutorial-for-beginners/) - not free
 - [How To Implement Your First VHDL Design on FPGA (udemy)](https://www.udemy.com/how-to-implement-your-first-vhdl-design-on-fpga/)
 - [Learn VHDL and FPGA Development (udemy)](https://www.udemy.com/vhdl-and-fpga-development-for-beginners-and-intermediates/)
@@ -283,6 +283,8 @@ Cross-platform build system. Continuous and IDE integration. Arduino and ARM mbe
 - [Learn VHDL, ISE and FPGA by Designing a basic Home Alarm (udemy)](https://www.udemy.com/getting-started-with-fpga-ise-and-vhdl/)
 - [The Embedded Pre-Interview! (udemy)](https://www.udemy.com/the-embedded-pre-interview/) - not free - Evaluate your Embedded Systems knowledge, in just 100 minutes, for any entry level job
 
+### Youtube
+- [UNC Charlotte Embedded Systems Course](https://www.youtube.com/playlist?list=PLE4462C1C306E2EB2)
 
 ## News / Articles
 - [Linux.com](https://www.linux.com/news)
@@ -314,8 +316,8 @@ Cross-platform build system. Continuous and IDE integration. Arduino and ARM mbe
 ## Software-Defined Networking (SDN)
 - [ZODIAC FX](https://northboundnetworks.com/products/zodiac-fx)
 
-===========================================
-# Real World Projects
+
+## Real World Projects
 - [ ] [Blinking an LED using R-Pi demo](https://www.hackster.io/)
 - [ ] Sending Temp/Humidity sensors data onto AWS Cloud using R-Pi
 - [ ] Line follower Robot with motion sensor
