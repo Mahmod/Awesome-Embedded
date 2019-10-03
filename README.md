@@ -1,4 +1,4 @@
-# Awesome-Embedded [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome-Embedded systems[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of delightful Embedded Systems [libraries, RTOSes, packages,](#packages-libraries-and-rtoses) and [references](#resources)!
 
@@ -8,7 +8,7 @@
 
 <!-- TOC depthFrom:2 depthTo:6 orderedList:false updateOnSave:false withLinks:true -->
 
-- [Awesome-Embedded ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-embedded-awesomehttpsgithubcomsindresorhusawesome)
+- [Awesome-Embedded systems![Awesome](https://github.com/sindresorhus/awesome)](#awesome-embedded-systemsawesomehttpsgithubcomsindresorhusawesome)
 - [Table of Contents](#table-of-contents)
   - [Packages, Libraries and RTOSes](#packages-libraries-and-rtoses)
     - [TCP/IP](#tcpip)
@@ -32,15 +32,25 @@
       - [Golang](#golang)
       - [MicroPython](#micropython)
     - [STL](#stl)
-  - [Resources](#resources)
+    - [Logging and Messaging](#logging-and-messaging)
+  - [- lcm - Lightweight Communications and Marshalling, message passing and data marshalling for real-time systems where high-bandwidth and low latency are critical.](#lcm---lightweight-communications-and-marshalling-message-passing-and-data-marshalling-for-real-time-systems-where-high-bandwidth-and-low-latency-are-critical)
+  - [Packages, Libraries and RTOSes](#packages-libraries-and-rtoses-1)
+  - [Courses](#courses)
+  - [Books](#books)
+  - [Papers](#papers)
+  - [Conferences](#conferences)
+  - [Journals](#journals)
+  - [Competitions](#competitions)
+  - [Companies](#companies)
+  - [Misc](#misc)
     - [Other Lists](#other-lists)
     - [Podcasts](#podcasts)
     - [Videos](#videos)
-    - [Books](#books)
+    - [Books](#books-1)
     - [Standards](#standards)
     - [Tools](#tools)
     - [Embedded Linux](#embedded-linux)
-    - [Courses](#courses)
+    - [Courses](#courses-1)
     - [edx](#edx)
     - [Coursera](#coursera)
       - [IoT](#iot)
@@ -168,7 +178,22 @@ gdc compiler. The main focus is STM32 controllers but the library and build tool
 - [uSTL](https://github.com/msharov/ustl) - Partial, code size implementation of the STL.
 - [EASTL](https://github.com/electronicarts/EASTL) - Electronic Arts STL - aimed for console devices. Good descripton avaliable [HERE](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2271.html)
 
-## Resources
+### Logging and Messaging
+
+- [spdlog](https://github.com/gabime/spdlog) - Super fast C++ logging library.
+- [lcm](https://github.com/lcm-proj/lcm) - Lightweight Communications and Marshalling, message passing and data marshalling for real-time systems where high-bandwidth and low latency are critical.
+---------------------
+## Packages, Libraries and RTOSes
+
+## Courses
+## Books
+## Papers
+## Conferences
+## Journals
+## Competitions
+## Companies
+## Misc
+
 
 ### Other Lists
 
